@@ -7,11 +7,11 @@ My Data Science project portifolio
 </p>
 
 # Márcio Freitas
-<sub>*Lead ElectroElectronic technician at  Ceará Federal University</sub>
+<sub>* ElectroElectronic technician at  Ceará Federal University</sub>
 
-At the moment, I am a Master Course Degree student in Mechanical Design and Robotic at Santa Catarina Federal University and I am building my Data Science Scientist carree.Professionaly, I am a E
+At the moment, I am a Master Course Degree student in Mechanical Engeneering Graduate Program (POSMEC) at Santa Catarina Federal University and I am building my Data Science Scientist carree. Professionaly, I am a Eletroelectronic technician at Ceará Federal University (UFC).
 
-**Background in:** Python, C/C++, MATLAB,  Machine Learning, Robotic, Optimization, Oil and Gas Tecnology and outher academic skills.
+**Background in:** Python, C/C++, MATLAB,  Machine Learning, Robotics, Optimization Design, Math and Physics, Oil and Gas Tecnology and outher academic skills.
 
 **Links:**
 
@@ -20,6 +20,4 @@ At the moment, I am a Master Course Degree student in Mechanical Design and Robo
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
-
-soon!
+ coming soon!
